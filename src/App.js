@@ -59,7 +59,7 @@ I believe learning is a lifelong process — and I’m currently focused on mast
             GitHub
           </a>
           <a
-            href="www.linkedin.com/in/stuti-singh-42567b303"
+            href="https://www.linkedin.com/in/stuti-singh-42567b303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             target="_blank"
             rel="noreferrer"
           >
